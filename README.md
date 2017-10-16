@@ -8,4 +8,4 @@ Settings from 3 database tables are currently supported:
 - `keybindings`: Keybindings for actions associated with specific contexts, such as "TV Playback" or "Main Menu".
 - `jumppoints`: Keybindings for global actions that jump to different parts of the MythTV interface, such as the Recordings screen or Live TV.
 
-See [sample.py] for an example usage session.
+See [sample.py](sample.py) for an example usage session.
